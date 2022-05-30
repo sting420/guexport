@@ -1,0 +1,9 @@
+.exportButton {
+  padding: 0;
+  margin-top: 4px;
+  width: 20px;
+}
+
+.exportButton:hover {
+  cursor: pointer;
+}
